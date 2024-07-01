@@ -1,0 +1,123 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "HackAndSlashCpp (Debug)",
+            "request": "launch",
+            "preLaunchTask": "HackAndSlashCpp Win64 Debug Build",
+            "program": "D:\\ProjectU\\HackAndSlashCpp\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+            "args": [],
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "HackAndSlashCpp (DebugGame)",
+            "request": "launch",
+            "preLaunchTask": "HackAndSlashCpp Win64 DebugGame Build",
+            "program": "D:\\ProjectU\\HackAndSlashCpp\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+            "args": [],
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "HackAndSlashCpp (Development)",
+            "request": "launch",
+            "preLaunchTask": "HackAndSlashCpp Win64 Development Build",
+            "program": "D:\\ProjectU\\HackAndSlashCpp\\Binaries\\Win64\\UE4.exe",
+            "args": [],
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "HackAndSlashCpp (Shipping)",
+            "request": "launch",
+            "preLaunchTask": "HackAndSlashCpp Win64 Shipping Build",
+            "program": "D:\\ProjectU\\HackAndSlashCpp\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+            "args": [],
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "HackAndSlashCpp (Test)",
+            "request": "launch",
+            "preLaunchTask": "HackAndSlashCpp Win64 Test Build",
+            "program": "D:\\ProjectU\\HackAndSlashCpp\\Binaries\\Win64\\UE4-Win64-Test.exe",
+            "args": [],
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "HackAndSlashCppEditor (Debug)",
+            "request": "launch",
+            "preLaunchTask": "HackAndSlashCppEditor Win64 Debug Build",
+            "program": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+            "args": [
+                "D:\\ProjectU\\HackAndSlashCpp\\HackAndSlashCpp.uproject"
+            ],
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "HackAndSlashCppEditor (DebugGame)",
+            "request": "launch",
+            "preLaunchTask": "HackAndSlashCppEditor Win64 DebugGame Build",
+            "program": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+            "args": [
+                "D:\\ProjectU\\HackAndSlashCpp\\HackAndSlashCpp.uproject"
+            ],
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "HackAndSlashCppEditor (Development)",
+            "request": "launch",
+            "preLaunchTask": "HackAndSlashCppEditor Win64 Development Build",
+            "program": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+            "args": [
+                "D:\\ProjectU\\HackAndSlashCpp\\HackAndSlashCpp.uproject"
+            ],
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "Generate Project Files",
+            "type": "clr",
+            "request": "launch",
+            "program": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+            "console": "externalTerminal",
+            "args": [
+                "-projectfiles",
+                "-vscode",
+                "-project=D:\\ProjectU\\HackAndSlashCpp\\HackAndSlashCpp.uproject",
+                "-game",
+                "-engine"
+            ],
+            "internalConsoleOptions": "openOnSessionStart",
+            "cwd": "C:\\Program Files\\Epic Games\\UE_4.27"
+        }
+    ]
+}

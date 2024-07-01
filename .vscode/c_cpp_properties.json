@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "HackAndSlashCppEditor Editor Win64 Development (HackAndSlashCpp)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_HackAndSlashCpp.json",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default.json",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

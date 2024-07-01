@@ -1,0 +1,317 @@
+[
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\EnemyCharacter.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\EnemyCharacter.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\HackAndSlashCpp.Build.cs",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\HackAndSlashCpp.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\HackAndSlashCpp.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\HackAndSlashCppCharacter.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\HackAndSlashCppCharacter.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\HackAndSlashCppGameMode.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\HackAndSlashCppGameMode.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\MyCharacterController.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\MyCharacterController.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\MyDamageType.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\MyDamageType.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\CombatComponent.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\CombatComponent.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\ShadowStrikeComponent.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\ShadowStrikeComponent.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\StrikeInterface.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\StrikeInterface.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraCoordinateSpace__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraCurlNoiseQuality__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraEmitterLifeCycleMode__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraEmitterScalabilityMode_Limited__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraExecutionStateManagement__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraExpansionMode__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraInactiveMode__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraMeshTransforms__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraRandomnessEvaluation__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraRandomnessMode__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraScaleColorMode__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraSUbUVAnimationMode__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraSystemInactiveMode__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagaraTorusDistributionMode__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagara_AngleInput__pf1834627538.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagara_EmitterStateOptions__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagara_InfiniteLoopDuration__pf2855420827.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\ENiagara_ScaleSpriteSize__pf1623472330.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\NativizedAssets.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\NativizedAssets.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Private\\\\NativizedAssets_Dependencies.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraCoordinateSpace__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraCurlNoiseQuality__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraEmitterLifeCycleMode__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraEmitterScalabilityMode_Limited__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraExecutionStateManagement__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraExpansionMode__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraInactiveMode__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraMeshTransforms__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraRandomnessEvaluation__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraRandomnessMode__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraScaleColorMode__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraSUbUVAnimationMode__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraSystemInactiveMode__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagaraTorusDistributionMode__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagara_AngleInput__pf1834627538.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagara_EmitterStateOptions__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagara_InfiniteLoopDuration__pf2855420827.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\ENiagara_ScaleSpriteSize__pf1623472330.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Intermediate\\\\Plugins\\\\NativizedAssets\\\\Windows\\\\Game\\\\Source\\\\NativizedAssets\\\\Public\\\\NativizedAssets_Dependencies.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\EnemyAIController.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\EnemyAIController.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\MyBTDecorator_CheckAttackRange.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\ProjectU\\\\HackAndSlashCpp\\\\Source\\\\HackAndSlashCpp\\\\MyBTDecorator_CheckAttackRange.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\ProjectU\\HackAndSlashCpp\\.vscode\\compileCommands_Default\\HackAndSlashCpp.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    }
+]
